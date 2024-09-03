@@ -8,7 +8,6 @@ export interface CartItem {
   quantity: number;
 }
 //cek 
-//cek baru lagi
 
 interface CartState {
   items: CartItem[];
