@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Base Styles */
+body {
+    background-color: white;
+    color: black;
+  }
+  
+  /* Dark Mode Styles */
+  body.dark {
+    background-color: black;
+    color: white;
+  }
+  
