@@ -8,6 +8,7 @@ export interface CartItem {
   quantity: number;
 }
 //cek 
+//cek update 2
 
 interface CartState {
   items: CartItem[];
